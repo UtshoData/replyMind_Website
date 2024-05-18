@@ -2036,7 +2036,7 @@ body {
         width: 88vw;
         text-align: center;
         margin: auto;
-        margin-top: 24vw;
+        margin-top: 4vw;
         margin-bottom: 10px;
     }
 
@@ -3198,9 +3198,9 @@ body {
     }
 
     .first-container {
-        width: 50%;
-
-        margin-left: 21px;
+        margin: auto;
+        margin-top: 15vw;
+        display: flex;
     }
 
     .review1 {
@@ -3238,9 +3238,9 @@ body {
     }
 
     .testimonial_imageBox iframe {
-        width:345px;
-        height: 200px;
-        border-radius: 20px;
+        height: 45vw;
+        width: 100%;
+        border-radius: 2vw;
         margin-top: -86px;
         margin-left: 8px;
     }
@@ -4087,7 +4087,7 @@ body {
     }
 
     .Problem_mainBox {
-        width: 82vw;
+        width: 70vw;
         margin: auto
     }
 
