@@ -1654,7 +1654,8 @@ body {
         width: 15vw;
         border-radius: 3vw;
         font-size: 1.1vw;
-        transition: linear .1s
+        transition: linear .1s;
+        
     }
 }
 
