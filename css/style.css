@@ -4498,18 +4498,18 @@ body {
 }
 
 @media screen and (max-width: 991px) {
-    .faq {
-        background: linear-gradient(to left bottom, #fff, #fff7f7);
+    .accordion {
+        background: linear-gradient(to left bottom, #fff, #e29c9c37);
         padding-top: 3vw;
         padding-bottom: 5vw
     }
 
-    .faq_mainBox {
+    .accordion_Box {
         width: 82vw;
-        margin: auto
+        margin: 20px
     }
 
-    .faq_mainBox h1 {
+    .accordion h1 {
         font-size: 7vw;
         text-align: center;
         font-weight: 700;
@@ -4517,7 +4517,7 @@ body {
         margin-bottom: 8vw
     }
 
-    .faq_questionAnswer {
+    .accordion_questions {
         background-color: #f5f5f5;
         border-radius: 1vw;
         overflow: hidden;
@@ -4526,7 +4526,7 @@ body {
         cursor: pointer
     }
 
-    .faq_questions {
+    .accordion_questions {
         display: flex;
         justify-content: space-between;
         font-size: 2.5vw;
