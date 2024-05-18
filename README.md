@@ -5,8 +5,9 @@
 3.Js
 ![image](https://github.com/UtshoData/replyMind_Website/assets/157609050/a1255dab-9091-4f70-a2c9-e90323c0620e)
 ## Mobile View
-![image](https://github.com/UtshoData/replyMind_Website/assets/157609050/de7e7fe4-b227-4f5e-b8da-e73b6adfef09)
-![image](https://github.com/UtshoData/replyMind_Website/assets/157609050/10a95a11-b840-4f67-a438-9bae852b8f8c)
-![image](https://github.com/UtshoData/replyMind_Website/assets/157609050/375c08e7-4fab-4dfd-bee2-e3f5026d85ea)
+![image](https://github.com/UtshoData/replyMind_Website/assets/157609050/48f8d192-e5d7-498d-b54f-1aa2f00a248e)
+![image](https://github.com/UtshoData/replyMind_Website/assets/157609050/6b09b70b-1211-4eb7-995f-0524f84b2878)
+![image](https://github.com/UtshoData/replyMind_Website/assets/157609050/fa6aafc7-7801-4532-b34f-54569a9982ca)
+
 
 
