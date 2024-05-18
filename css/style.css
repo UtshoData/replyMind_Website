@@ -1635,6 +1635,15 @@ body {
         width: 80%;
         margin-bottom: 2.5vw
     }
+    .intro_textBox h3 {
+        color:wheat;
+        font-size: 2vw;
+        width: 50%;
+        margin-bottom: 2.5vw;
+        background-color: #235d55;
+        text-align: center;
+        border-radius: 10px ;
+    }
 
     .intro_imageBox {
         width: 50%
