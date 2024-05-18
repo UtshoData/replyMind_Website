@@ -3200,7 +3200,7 @@ body {
     .first-container {
         width: 50%;
 
-        margin-left: 42px;
+        margin-left: 21px;
     }
 
     .review1 {
@@ -3238,11 +3238,11 @@ body {
     }
 
     .testimonial_imageBox iframe {
-        width: 400px;
+        width:345px;
         height: 200px;
         border-radius: 20px;
         margin-top: -86px;
-        margin-left: -12px;
+        margin-left: 8px;
     }
 
     .content {
